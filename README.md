@@ -7,10 +7,24 @@ I officially started my programming journey in 2024 by trying to teach myself Py
 But even though I waited a while with starting my programming journey, I've had stints of dipping my feet into it before, and I've always been curious about how electronics work in general.  
 
 
-#### What we were taught through Kodehode's front-end module
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&perline=4)](https://skillicons.dev)
+### What we were taught through Kodehode's front-end module
+[![Kodehode Frontend](https://skillicons.dev/icons?i=html,css,js&perline=4)](https://skillicons.dev)
+
+### Currently being taught
+[![current focus](https://skillicons.dev/icons?i=react&perline=4)](https://skillicons.dev)
+
+### Optional module I've been diving a bit into on my own through the course
+[![current focus](https://skillicons.dev/icons?i=express,nodejs&perline=4)](https://skillicons.dev)
+
+I hope to learn some back-end during my time at Kodehode as well, as I'm more interested in back-end and logic than visual design.  
+
+### Learnt on my own
+[![on my own time](https://skillicons.dev/icons?i=python&perline=4)](https://skillicons.dev)
 
 
+I started my journey around June/July 2024, spending my time on freecodecamp.  
+While I didn't find the front-end stuff that fun to learn, I found myself drawn to Python when I reached that part.  
+While I haven't done much in Python since I started in Kodehode, I feel like it was a good foundation to have before entering Kodehode's course/bootcamp, and probably would be excited to work more with Python in the future
 
 <!--
 **OleKodehode/OleKodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +37,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
