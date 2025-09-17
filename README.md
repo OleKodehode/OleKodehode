@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Ole**  from Norway.  
-I officially started my programming journey in 2024 by trying to teach myself Python, and later transitioned to learning more web development related languages and concept through Jobloop's Kodehode in 2025/2026, and this is the Github account we made in conjuction with the course.  
+I officially started my programming journey in 2024 by trying to teach myself Python, and later transitioned to learning more web development related languages and concept through [Jobloop](https://www.jobloop.no)'s [Kodehode](https://www.kodehode.no) in 2025/2026, and this is the Github account we made in conjuction with the course.  
 
 
 But even though I waited a while with starting my programming journey, I've had stints of dipping my feet into it before, and I've always been curious about how electronics work in general.  
@@ -22,8 +22,8 @@ I hope to learn some back-end during my time at Kodehode as well, as I'm more in
 [![on my own time](https://skillicons.dev/icons?i=python&perline=4)](https://skillicons.dev)
 
 
-I started my journey around June/July 2024, spending my time on freecodecamp.  
-While I didn't find the front-end stuff that fun to learn, I found myself drawn to Python when I reached that part.  
+I started my journey around June/July 2024, spending my time on [freecodecamp](https://www.freecodecamp.org).  
+While I didn't find the front-end stuff that fun to learn, I found myself drawn to Python (and to a degree back-end) when I reached that part.  
 While I haven't done much in Python since I started in Kodehode, I feel like it was a good foundation to have before entering Kodehode's course/bootcamp, and probably would be excited to work more with Python in the future
 
 <!--
