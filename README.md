@@ -11,7 +11,7 @@ But even though I waited a while with starting my programming journey, I've had 
 [![Kodehode Frontend](https://skillicons.dev/icons?i=html,css,js,react&perline=4)](https://skillicons.dev)
 
 ### Currently being taught
-[![current focus](https://skillicons.dev/icons?i=nodejs,express,SQL&perline=4)](https://skillicons.dev)
+[![current focus](https://skillicons.dev/icons?i=nodejs,express&perline=4)](https://skillicons.dev) (and Microsoft SQL Server)
 
 
 ### Learnt on my own
