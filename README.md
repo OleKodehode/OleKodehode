@@ -8,18 +8,14 @@ But even though I waited a while with starting my programming journey, I've had 
 
 
 ### What we were taught through Kodehode's front-end module
-[![Kodehode Frontend](https://skillicons.dev/icons?i=html,css,js&perline=4)](https://skillicons.dev)
+[![Kodehode Frontend](https://skillicons.dev/icons?i=html,css,js,react&perline=4)](https://skillicons.dev)
 
 ### Currently being taught
-[![current focus](https://skillicons.dev/icons?i=react&perline=4)](https://skillicons.dev)
+[![current focus](https://skillicons.dev/icons?i=nodejs,express,SQL&perline=4)](https://skillicons.dev)
 
-### Optional module I've been diving a bit into on my own through the course
-[![current focus](https://skillicons.dev/icons?i=express,nodejs&perline=4)](https://skillicons.dev)
-
-I hope to learn some back-end during my time at Kodehode as well, as I'm more interested in back-end and logic than visual design.  
 
 ### Learnt on my own
-[![on my own time](https://skillicons.dev/icons?i=python&perline=4)](https://skillicons.dev)
+[![on my own time](https://skillicons.dev/icons?i=python,tailwindcss&perline=4)](https://skillicons.dev)
 
 
 I started my journey around June/July 2024, spending my time on [freecodecamp](https://www.freecodecamp.org).  
