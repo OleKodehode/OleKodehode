@@ -7,7 +7,7 @@ I officially started my programming journey in 2024 by trying to teach myself Py
 But even though I waited a while with starting my programming journey, I've had stints of dipping my feet into it before, and I've always been curious about how electronics work in general.  
 
 
-### What we were taught through Kodehode's front-end module
+### What we were taught through Kodehode's web developer course
 [![Kodehode Frontend](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,sqlite&perline=8)](https://skillicons.dev)
 
 ### Learnt on my own
