@@ -8,11 +8,7 @@ But even though I waited a while with starting my programming journey, I've had 
 
 
 ### What we were taught through Kodehode's front-end module
-[![Kodehode Frontend](https://skillicons.dev/icons?i=html,css,js,react&perline=4)](https://skillicons.dev)
-
-### Currently being taught
-[![current focus](https://skillicons.dev/icons?i=nodejs,express&perline=4)](https://skillicons.dev) (and Microsoft SQL Server)
-
+[![Kodehode Frontend](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,sqlite&perline=4)](https://skillicons.dev)
 
 ### Learnt on my own
 [![on my own time](https://skillicons.dev/icons?i=python,tailwindcss&perline=4)](https://skillicons.dev)
