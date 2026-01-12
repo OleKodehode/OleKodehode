@@ -10,7 +10,7 @@ But even though I waited a while with starting my programming journey, I've had 
 ### What we were taught through Kodehode's web developer course
 [![Kodehode Frontend](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,sqlite&perline=8)](https://skillicons.dev)
 
-### Learned on my own
+### Studied on my own
 [![on my own time](https://skillicons.dev/icons?i=python,tailwindcss,go&perline=4)](https://skillicons.dev)
 
 
